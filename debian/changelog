@@ -1,3 +1,10 @@
+debathena-ntp-config (1.6) unstable; urgency=medium
+
+  * Fix ntp.conf transformation on xenial, which defaults to using pool
+    instead of server.
+
+ -- Anders Kaseorg <andersk@mit.edu>  Wed, 29 Jun 2016 20:47:34 -0400
+
 debathena-ntp-config (1.5) unstable; urgency=low
 
   [ Jonathan Reed ]
